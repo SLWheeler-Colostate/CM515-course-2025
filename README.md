@@ -22,4 +22,4 @@ Use this reference to learn how to format this README: [Markdown on Github](http
 
 ## Link to my website:
 
-slwheeler-colostate.github.io
+[slwheeler-colostate.github.io](https://slwheeler-colostate.github.io/minimal-mistakes/)
