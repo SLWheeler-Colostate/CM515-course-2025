@@ -25,7 +25,7 @@
 Final Project
 ## R and RStudio-related modules
 
-1. [Intro to R](./modules/02_RStudio.md)
+1. [Intro to R](modules/02_RStudio)
 2. [Data Visualization in R/ GGPlot](./modules/05_GGplot_Visualization.md)
 3. [Tidyverse](./modules/04_Tidyverse.md)
 4. [Presenting Data](./modules/10_Presenting_Data.md)
