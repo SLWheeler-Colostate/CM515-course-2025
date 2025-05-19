@@ -26,11 +26,11 @@ Final Project
 ## R and RStudio-related modules
 
 1. [Intro to R](modules/02_RStudio)
-2. [Data Visualization in R/ GGPlot](./modules/05_GGplot_Visualization.md)
-3. [Tidyverse](./modules/04_Tidyverse.md)
-4. [Presenting Data](./modules/10_Presenting_Data.md)
+2. [Data Visualization in R/ GGPlot](modules/05_GGplot_Visualization)
+3. [Tidyverse](modules/04_Tidyverse)
+4. [Presenting Data](modules/10_Presenting_Data)
 
 ## Other modules
 
-1. [Intro to Unix](./modules/module-05-unix.md)
-2. [Version Control with Git](./modules/module-06-git.md)
+1. [Working with Protein Structure](modules/09_Working_With_Protein_Structures)
+2. [2D Genomics](modules/11_2D_Genomics)
