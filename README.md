@@ -22,3 +22,15 @@
 | May 5                | May 7                | 15     | Github/Git Portfolio               | Kalani             | 16   |
 | May 12               | May 14               | 16     | Finals Week                        |                    | 17   |
 
+Final Project
+## R and RStudio-related modules
+
+1. [Intro to R](./modules/02_RStudio.md)
+2. [Data Visualization in R/ GGPlot](./modules/05_GGplot_Visualization.md)
+3. [Tidyverse](./modules/04_Tidyverse.md)
+4. [Presenting Data](./modules/10_Presenting_Data.md)
+
+## Other modules
+
+1. [Intro to Unix](./modules/module-05-unix.md)
+2. [Version Control with Git](./modules/module-06-git.md)
